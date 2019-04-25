@@ -1,1 +1,17 @@
+error:
+untracked file  /*没有追踪到文件*/
+1.On branch master 
+  Initial commit
+  Untracked files:  ***
+  nothing add to commit but untrackede files present
+/*主分支;最初的提交;没有追踪到***文件;没有增加提交但目前没追踪到文件*/
+2.On branch master
+  Changes not staged for commit:  
+              modified: ***
+  no changes added to commmit
+/*主分支;没有改变提交状态;调整:***;没有改变增加提交*/
+3.fatal:pathspec ‘***’ did not match any files
+/*毁灭性:不存在这个文件用touch创建*/
+4.
+
 
